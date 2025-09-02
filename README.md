@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BBN2002
 - 👀 I’m interested in Coding，sport
-- 🌱 I’m currently learning Machine learning ＆reptile python
-- 💞️ I’m looking to collaborate on nowhere
-- 📫 How to reach me 1748444357qq.com
+- 🌱 I’m currently learning Deep learning ＆ LLM
+- 📫 How to reach me beininbao2-c@my.cityu.edu.hk
 
 <!---
 BBN2002/BBN2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
